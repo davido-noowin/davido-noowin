@@ -7,4 +7,5 @@ davido-noowin/davido-noowin is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davido-noowin)](https://github.com/anuraghazra/github-readme-stats)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davido-noowin)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davido-noowin)](https://github.com/anuraghazra/github-readme-stats)
