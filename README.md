@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davido-noowin
-- 🌱 I’m currently learning computer science at UCI
+- 🌱 I graduated from UCI with a bachelors in computer science
 - 📫 You can reach me at davido.nguyen1212@gmail.com
 
 <!---
