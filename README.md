@@ -1,7 +1,7 @@
 ### About Me:
 I am a Full Stack Developer
 - 👋 Hi, I am David
-- 🌱 I recently graduated from UCI with a bachelor's in computer science
+- 🌱 Constantly looking to learn new things
 - 📫 You can reach me at davido.nguyen1212@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-nguyen-b96577244/)
 - ⚡ In my free time, I like going to the gym, watching shows, or playing games with friends
 - 🖥️ [Check out my portfolio!](https://davido-noowin.github.io/)
